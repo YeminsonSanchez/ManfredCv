@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,7 +15,8 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/6458bd50-81bf-4547-aa04-6de288984f14_img_20220810_091440_.jpg"
       },
       "location": {
-        "country": "Chile"
+        "country": "Chile",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
