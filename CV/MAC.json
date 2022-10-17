@@ -40,7 +40,11 @@
       {
         "details": {
           "name": "EasyPeasy",
-          "description": "EZ es una plataforma de estudio para aprender, desarrollo web, diseño, machine learnig, inteligencia artificial o alguna otra rama de la informatica/programacion.\n\nLa adquisicion de estos conocimientos es atravez de la compra de cursos en video, pudiendo elegir 1 video especifico o una ruta completa de aprendizaje."
+          "description": "EZ es una plataforma de estudio para aprender, desarrollo web, diseño, machine learnig, inteligencia artificial o alguna otra rama de la informatica/programacion.\n\nLa adquisicion de estos conocimientos es atravez de la compra de cursos en video, pudiendo elegir 1 video especifico o una ruta completa de aprendizaje.",
+          "image": {
+            "alt": "iconoTab.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/17/c189c4dc-82a7-48bb-90c1-1b781152595f_iconotab.svg"
+          }
         },
         "type": "sideProject",
         "roles": [
