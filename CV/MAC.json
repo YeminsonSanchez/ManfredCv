@@ -225,6 +225,78 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "DESARROLLADOR WEB FULLSTACK",
+        "startDate": "2022-01-01",
+        "institution": {
+          "name": "SENCE OTEC",
+          "description": "Realice un Bootcamp de mano de SENCE chile, usando la plataforma Desafio Latam con una duración de mas de 500 horas.",
+          "image": {
+            "alt": "Screenshot_20221016-214047_Drive.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/17/f43bdf83-e4cb-4835-b13a-1959e3c7af69_screenshot_20221016-.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "Mocha",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "PostgreSQL",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Tailwind",
+            "type": "technology"
+          },
+          {
+            "name": "chai",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": false,
         "name": "Técnico en informatica",
