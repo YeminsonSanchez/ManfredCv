@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,8 +15,7 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/6458bd50-81bf-4547-aa04-6de288984f14_img_20220810_091440_.jpg"
       },
       "location": {
-        "country": "Chile",
-        "notes": "Autocompleted using Google Maps API"
+        "country": "Chile"
       }
     },
     "relevantLinks": [
@@ -33,6 +32,29 @@
       {
         "topic": "Mis libros preferidos",
         "fact": "Inteligencia Emocional, Psicologia Oscura, El hombre mas rico de babilonia, Descubre el arte de hablar en publico, Padre Rico Padre Pobre, 48 Leyes del poder, El Arte de la guerra, Como ganar amigos en influir sobre las personas, Los 7 habitos de las personas altamente efectiva, Habitos Atomicos.\n"
+      }
+    ]
+  },
+  "experience": {
+    "projects": [
+      {
+        "details": {
+          "name": "EasyPeasy",
+          "description": "EZ es una plataforma de estudio para aprender, desarrollo web, diseño, machine learnig, inteligencia artificial o alguna otra rama de la informatica/programacion.\n\nLa adquisicion de estos conocimientos es atravez de la compra de cursos en video, pudiendo elegir 1 video especifico o una ruta completa de aprendizaje."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-09-01",
+            "competences": [
+              {
+                "name": "MERN Stack",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
