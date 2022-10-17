@@ -222,6 +222,18 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Técnico en informatica",
+        "startDate": "2022-01-01",
+        "institution": {
+          "name": "IPLACEX",
+          "description": "Actualmente me encuentro estudiando TECNICO EN INFORMATICA en el IPLACEX."
+        }
+      }
     ]
   },
   "careerPreferences": {
