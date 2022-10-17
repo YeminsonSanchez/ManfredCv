@@ -86,7 +86,7 @@
         },
         "roles": [
           {
-            "name": "Administrativo",
+            "name": "ADMINISTRATIVO",
             "startDate": "2014-05-01",
             "finishDate": "2017-12-01",
             "challenges": [
