@@ -99,6 +99,18 @@
       },
       {
         "organization": {
+          "name": "TRANSPORTES"
+        },
+        "roles": [
+          {
+            "name": "EMPRENDIMIENTO PERSONAL",
+            "startDate": "2018-01-01",
+            "finishDate": "2020-07-01"
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "SERVICIOS MEDICOS INTEGRA SXXI"
         },
         "roles": [
