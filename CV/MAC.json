@@ -36,6 +36,51 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "NO-COUNTRY",
+          "image": {
+            "alt": "62cf3fdfe34fca60a7d5b9a7_Branding NC-11-p-500.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/17/ddbf56f7-45b0-4ab9-8e2e-bf230c2abbf0_62cf3fdfe34fca60a7d5.png"
+          },
+          "URL": "https://www.nocountry.tech/"
+        },
+        "roles": [
+          {
+            "name": "DESARROLLADOR FULLSTACK",
+            "startDate": "2022-09-01",
+            "challenges": [
+              {
+                "description": "Desarrollador web fullstack "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {
