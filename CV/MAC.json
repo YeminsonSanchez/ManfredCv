@@ -225,6 +225,22 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "DESARROLLADOR WEB FULLSTACK JAVASCRIPT",
+        "startDate": "2022-01-01",
+        "institution": {
+          "name": "SENCE",
+          "description": "Realice un Bootcamp de mano de SENCE chile, usando la plataforma Desafio Latam con una duracion de mas de 500 horas."
+        },
+        "linkedCompetences": [
+          {
+            "name": "MERN Stack",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": false,
         "name": "Técnico en informatica",
