@@ -230,8 +230,12 @@
         "name": "DESARROLLADOR WEB FULLSTACK JAVASCRIPT",
         "startDate": "2022-01-01",
         "institution": {
-          "name": "SENCE",
-          "description": "Realice un Bootcamp de mano de SENCE chile, usando la plataforma Desafio Latam con una duracion de mas de 500 horas."
+          "name": "SENCE OTEC",
+          "description": "Realice un Bootcamp de mano de SENCE chile, usando la plataforma Desafio Latam con una duracion de mas de 500 horas.",
+          "image": {
+            "alt": "Screenshot_20221016-214047_Drive.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/17/396250fe-444b-4b0c-a82e-51f0cb2c8ba0_screenshot_20221016-.jpg"
+          }
         },
         "linkedCompetences": [
           {
